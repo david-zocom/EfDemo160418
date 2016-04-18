@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfDemo160418", "EfDemo160418\EfDemo160418.csproj", "{3BB563E8-5125-4155-AD80-8B9C03EE3E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfDemo160418_2", "EfDemo160418_2\EfDemo160418_2.csproj", "{FA1EC54A-394F-44A8-81D1-E5A1DA60D43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB563E8-5125-4155-AD80-8B9C03EE3E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB563E8-5125-4155-AD80-8B9C03EE3E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB563E8-5125-4155-AD80-8B9C03EE3E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB563E8-5125-4155-AD80-8B9C03EE3E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1EC54A-394F-44A8-81D1-E5A1DA60D43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1EC54A-394F-44A8-81D1-E5A1DA60D43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1EC54A-394F-44A8-81D1-E5A1DA60D43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1EC54A-394F-44A8-81D1-E5A1DA60D43E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
